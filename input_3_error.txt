@@ -1,0 +1,5 @@
+float num;
+num = scan(float);
+print(“The shape is a cycle!”);
+print(“ area= “);
+print(num* num * 3.);

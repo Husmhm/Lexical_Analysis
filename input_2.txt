@@ -1,0 +1,14 @@
+/************************************************This program calculates the maximum of 10 input numbers.
+*************************************************/
+int intNum; int result;
+int i=1;
+result = scan(int);
+while(i<=9){
+intNum = scan(int);
+i=i+1;
+if(intNum> result){
+result = intNum;
+}
+}
+print(“The maximum number is ”);
+print(result);

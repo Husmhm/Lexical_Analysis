@@ -1,0 +1,14 @@
+float _len; // length of rectangle
+float _wid; // width of rectangle
+_len = scan(float);
+_wid = scan(float);
+if(_len == _wid) {
+print(“The shape is a square!”);
+print(“ area= “);
+print(_len * _len);
+}
+else {
+print(“The shape is a rectangle!”);
+print(“ area= “);
+print(_len * _wid);
+}

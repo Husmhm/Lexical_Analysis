@@ -1,0 +1,12 @@
+float num1;
+float num2;
+num1= scan(float);
+num2= scan(float);
+print(“num1+ num2= ”);
+print(num1+ num2);
+print(“num1*num2= ”);
+print(num1*num2);
+print(“num1- num2= ”);
+print(num1 - num2);
+print(“num1/ num2= ”);
+print(num1/num2);

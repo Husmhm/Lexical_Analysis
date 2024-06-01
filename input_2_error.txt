@@ -1,0 +1,9 @@
+float length;
+float width;
+length = scan(float);
+width = scan(float);
+if(length == width) {
+print("The shape is a square!");
+print(" area= );
+print(length* length);
+}
